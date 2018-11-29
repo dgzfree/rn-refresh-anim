@@ -1,7 +1,7 @@
 # rn-refresh-anim
 install
 --------
-npm i dgz-rn-refresh-anim
+npm i refresh-anim-dugz
 
 ------
 base usage
